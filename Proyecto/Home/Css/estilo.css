@@ -1,0 +1,66 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+#general{
+  width: 1024px;
+  height: 2000px;
+  background: #F37257;
+  margin: 0.5em auto;
+  padding: 1em;
+}
+
+#cabecera{
+  height: 5%;
+  background: #a4a4a4;
+}
+
+#categoria{
+  height: 2%;
+  background: #424242;
+}
+
+#slide{
+  height: 25%;
+  background: #2F59EA;
+  margin: 0.5em auto;
+}
+
+#publicidad{
+  height: 5%;
+  background: #424242;
+  margin: 0.5em auto;
+}
+
+#ofertas{
+  height: 16%;
+  background: #424243;
+  margin: 0.5em auto;
+}
+
+#novedades{
+  height: 16%;
+  background: #424244;
+  margin: 0.5em auto;
+}
+
+#mejorVendido{
+  height: 16%;
+  background: #424244;
+  margin: 0.5em auto;
+}
+
+#piePAgina{
+  height: 12%;
+  background: #424244;
+  margin: 0.5em auto;
+}
+
+#sesion{
+  height: 90%;
+  width: 30%;
+  background: #AABBF5;
+  float: right;
+  margin-right: 2em;
+}
