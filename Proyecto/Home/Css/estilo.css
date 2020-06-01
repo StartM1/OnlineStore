@@ -7,7 +7,7 @@
   width: 1024px;
   height: 2000px;
   background: #F37257;
-  margin: 0.5em auto;
+  margin: 0.2em auto;
   padding: 1em;
 }
 
@@ -24,37 +24,37 @@
 #slide{
   height: 25%;
   background: #2F59EA;
-  margin: 0.5em auto;
+  margin: 0.2em auto;
 }
 
 #publicidad{
   height: 5%;
   background: #424242;
-  margin: 0.5em auto;
+  margin: 0.2em auto;
 }
 
 #ofertas{
   height: 16%;
   background: #424243;
-  margin: 0.5em auto;
+  margin: 0.2em auto;
 }
 
 #novedades{
   height: 16%;
   background: #424244;
-  margin: 0.5em auto;
+  margin: 0.2em auto;
 }
 
 #mejorVendido{
   height: 16%;
   background: #424244;
-  margin: 0.5em auto;
+  margin: 0.2em auto;
 }
 
 #piePAgina{
   height: 12%;
   background: #424244;
-  margin: 0.5em auto;
+  margin: 0.2em auto;
 }
 
 #sesion{
